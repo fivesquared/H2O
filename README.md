@@ -22,13 +22,13 @@ Now, this friend is a little sassy. Instead of just giving me a standard amount 
 ![Architecture Diagram](https://user-images.githubusercontent.com/567670/32739369-98f8b2ce-c86d-11e7-993d-42b142502507.png)
 > Note that we're using a Webview with a filepicker to bypass Toshi client limitations for image messages.
 
-##### APIs Used
+#### APIs Used
 The following external APIs have been used in our solution:
 - [Clarifai](https://clarifai.com) for Image-based AI
 - [Filestack](https://www.filestack.com) for food image capture and link generation
 - [Request](https://github.com/request/request) npm package for interacting with our hosted services/APIs
 
-###### A note on AI&nbsp;+ &nbsp;Blockchain
+##### A note on AI&nbsp;+ &nbsp;Blockchain
 With the power of AI technologies (predicting validation of images and extracting concepts from activity/images), we are able to accentuate the value of a virtual assistant in a finance-related application. In H2O, this focus is currently based on image recognition (tagging concepts) using models we've created for:
 - Water identification
 - Healthy foods identification (Weight loss, Diabetes, etc)
@@ -36,20 +36,13 @@ With the power of AI technologies (predicting validation of images and extractin
 
 This enables us to bring in the 'thinking' of medical and nutrition professionals to a distributed scenario (Blockchain!).
 
-##### Talk to @MyH2OBot on Toshi
-Open Toshi and add @MyH2OBot, or scan:
-![toshiprod-bot](https://user-images.githubusercontent.com/567670/32739734-cb00477c-c86e-11e7-85f8-bb80625f0b14.png)
-
-For Toshi Dev Client, add @MyH2OBot, or scan:
-![toshidev-bot](https://user-images.githubusercontent.com/567670/32739741-d143296a-c86e-11e7-9a88-cdfb8246fcc6.png)
-
 ### **Next Steps**
-##### Social Impact
+#### Social Impact
 What if we could involve rewards not just from our own stake, but from other folks that care about our wellbeing? Like family members, health care providers, dietitians, and even insurance services! The potential for a __gamefying__ good habits with secure financial bounties is where H2O can really make an impact!
 
 > We are pinging Diabetes' doctors and experts to help with rolling out good habits - a top reason for healthy management of Diabetes!  
 
-##### Technology Roadmap
+#### Technology Roadmap
 
 We plan to focus on the following aspects of our solution as our next steps:
 >- Implement native image checking and validation (so user is not uploading a picture from the web and we can validate the image is coming from the user's camera using AI + profiling technologies)
@@ -57,7 +50,7 @@ We plan to focus on the following aspects of our solution as our next steps:
 >- Hook into payment gateways (food habits when traveling for work!) and native sensors (like continuous glucose monitors and wearables), so our reward validation system is more holistic
 >- Social Finance: This is a key enabler as it would allow us to involve with a 3rd party to put the money stake on a user's MyH2O "account" - that way we can enable rewards from family members, medical system and insurance providers!
 
-##### About the maker
+### About the maker
 [Niraj Swami](https://www.linkedin.com/in/nirajswami)
 
 With help from endocrinology fellows, dietitians, and research:
@@ -66,6 +59,13 @@ With help from endocrinology fellows, dietitians, and research:
 [Social Motivation for Weight Loss](https://www.ncbi.nlm.nih.gov/pubmed/29125393)
 
 ----------
+### Talk to @MyH2OBot on Toshi
+Open Toshi and add @MyH2OBot, or scan:
+![toshiprod-bot](https://user-images.githubusercontent.com/567670/32739734-cb00477c-c86e-11e7-85f8-bb80625f0b14.png)
+
+For Toshi Dev Client, add @MyH2OBot, or scan:
+![toshidev-bot](https://user-images.githubusercontent.com/567670/32739741-d143296a-c86e-11e7-9a88-cdfb8246fcc6.png)
+
 #### Screenshots
 ![Screenshot 1](https://user-images.githubusercontent.com/567670/32739480-ffc349c4-c86d-11e7-9737-2e44cc40fe86.PNG)
 ![Screenshot 2](https://user-images.githubusercontent.com/567670/32739479-ffb89c54-c86d-11e7-8da0-28a1a10a8621.PNG)
