@@ -1,9 +1,8 @@
-Proffer Hackathon Entry - My H2O (by Niraj Swami)
+My H2O
 ===================
-
-This repository contains the source code for the My H2O Mobile App (bot for [Toshi](https://toshi.org "Toshi")).  
-
-[TOC]
+This repository contains the source code for the "My H2O" mobile app (bot for [Toshi](https://toshi.org "Toshi")).
+>**My H2O: [Demo](https://www.youtube.com/watch?v=_F4tKmcMMEc)**
+>Idea inspired @ the [Proffer Hackathon](https://proffer.network/hackathon) by [Niraj Swami](https://twitter.com/nswami)
 
 ----------
 
@@ -11,7 +10,7 @@ This repository contains the source code for the My H2O Mobile App (bot for [Tos
 Health Habits and Outcomes (H2O) is an intelligent assistant that helps you be accountable for healthy habits - like drinking more water - in a **fun, motivating & rewarding way**.
 
 #### **Inspiration**
-We all aim to have healthy habits, but somewhere in the daily stress and self 'convincing', we end up not holding ourselves accountable and help ourselves to that extra serving of ice cream or cake. Calorie counting apps don't always work! They need motivation :)  _Actually, the case is different when we ask a friend to hold us accountable and motivated!_
+We all aim to have healthy habits, but somewhere in the daily stress and self 'convincing', we end up not holding ourselves accountable and help ourselves to that extra serving of ice cream or cake. Calorie counting apps don't always work because nobody is there to motivate you!! _But, the case is different when we ask a friend to hold us accountable and motivated!_ <sup>[*](https://www.ncbi.nlm.nih.gov/pubmed/28286739)</sup>
 
 **Imagine this**: what if I could hold a small bounty ($5) with a trusting friend (read: Blockchain!) who will see what I eat and give me parts of the money back as rewards for eating 'good'. **_This is where I got inspired for the idea!_**
 
@@ -20,12 +19,13 @@ Now, this friend is a little sassy. Instead of just giving me a standard amount 
 > Blockchain technologies seem like the perfect fit for this free-form finance use case with a health-focused item!
 
 ### Architecture
-Insert architecture picture
+![Architecture Diagram](https://user-images.githubusercontent.com/567670/32739369-98f8b2ce-c86d-11e7-993d-42b142502507.png)
+> Note that we're using a Webview with a filepicker to bypass Toshi client limitations for image messages.
 
 ##### APIs Used
 The following external APIs have been used in our solution:
 - [Clarifai](https://clarifai.com) for Image-based AI
-- [Filestack](https://www.filestack.com) for image storing temporarily
+- [Filestack](https://www.filestack.com) for food image capture and link generation
 - [Request](https://github.com/request/request) npm package for interacting with our hosted services/APIs
 
 ###### A note on AI&nbsp;+ &nbsp;Blockchain
@@ -35,6 +35,12 @@ With the power of AI technologies (predicting validation of images and extractin
 - Unhealthy foods identification per diet-type (Weight loss, Diabetes, etc)
 
 This enables us to bring in the 'thinking' of medical and nutrition professionals to a distributed scenario (Blockchain!).
+
+##### Talk to @MyH2OBot on Toshi
+Open Toshi and add @MyH2OBot, or scan:
+
+For Toshi Dev Client, add @MyH2OBot, or scan:
+
 
 ### **Next Steps**
 ##### Social Impact
@@ -57,3 +63,10 @@ With help from endocrinology fellows, dietitians, and research:
 [Calorie-counting Research Paper](https://www.semanticscholar.org/paper/Calorie-counting-compared-to-exchange-system-diets-Wing-Nowalk/cd91680eeb70836ae9f92bc5d06ad2308dce3d14)
 [Motivation & Calorie-counting](https://www.ncbi.nlm.nih.gov/pubmed/28286739)
 [Social Motivation for Weight Loss](https://www.ncbi.nlm.nih.gov/pubmed/29125393)
+
+----------
+#### Screenshots
+![Screenshot 1](https://user-images.githubusercontent.com/567670/32739480-ffc349c4-c86d-11e7-9737-2e44cc40fe86.PNG)
+![Screenshot 2](https://user-images.githubusercontent.com/567670/32739479-ffb89c54-c86d-11e7-8da0-28a1a10a8621.PNG)
+![Screenshot 3](https://user-images.githubusercontent.com/567670/32739478-ffa69c84-c86d-11e7-9bb6-8ef99aa074c1.PNG)
+![Screenshot 4](https://user-images.githubusercontent.com/567670/32739477-ff954128-c86d-11e7-9c19-012a533f4a82.PNG)
