@@ -7,7 +7,7 @@ This repository contains the source code for the "My H2O" mobile app (bot for [T
 ----------
 
 ### What is My H2O?
-Health Habits and Outcomes (H2O) is an intelligent assistant that helps you be accountable for healthy habits - like drinking more water - in a **fun, motivating & rewarding way**.
+Health Habits and Outcomes (H2O) is an intelligent assistant that helps you be accountable for healthy habits - like drinking more water - in a **fun, motivating & rewarding way**. Let's hack on the idea of a **_'habit economics'_**.
 
 #### **Inspiration**
 We all aim to have healthy habits, but somewhere in the daily stress and self 'convincing', we end up not holding ourselves accountable and help ourselves to that extra serving of ice cream or cake. Calorie counting apps don't always work because nobody is there to motivate you!! _But, the case is different when we ask a friend to hold us accountable and motivated!_ <sup>[*](https://www.ncbi.nlm.nih.gov/pubmed/28286739)</sup>
