@@ -39,6 +39,7 @@ This enables us to bring in the 'thinking' of medical and nutrition professional
 ##### Talk to @MyH2OBot on Toshi
 Open Toshi and add @MyH2OBot, or scan:
 ![toshiprod-bot](https://user-images.githubusercontent.com/567670/32739734-cb00477c-c86e-11e7-85f8-bb80625f0b14.png)
+
 For Toshi Dev Client, add @MyH2OBot, or scan:
 ![toshidev-bot](https://user-images.githubusercontent.com/567670/32739741-d143296a-c86e-11e7-9a88-cdfb8246fcc6.png)
 
