@@ -1,8 +1,10 @@
 _Habit Economics_ with @MyH2OBot
-===================
-This repository contains the source code for the "My H2O" mobile app (bot for [Toshi](https://toshi.org "Toshi")).
->**MyH2OBot: [Demo](https://www.youtube.com/watch?v=_F4tKmcMMEc)** | Idea inspired @ the [Proffer Hackathon](https://proffer.network/hackathon) by [Niraj Swami](https://twitter.com/nswami)
+
 ----------
+
+>**MyH2OBot: [Demo](https://www.youtube.com/watch?v=_F4tKmcMMEc)** | Idea inspired @ the [Proffer Hackathon](https://proffer.network/hackathon) by [Niraj Swami](https://twitter.com/nswami)
+
+===================
 
 ![Habit Economics](https://user-images.githubusercontent.com/567670/33082870-78d20c2a-cea3-11e7-9853-82297ede839d.png)
 
