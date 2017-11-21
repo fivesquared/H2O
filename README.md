@@ -1,13 +1,13 @@
-My H2O
+_Habit Economics_ with @MyH2OBot
 ===================
 This repository contains the source code for the "My H2O" mobile app (bot for [Toshi](https://toshi.org "Toshi")).
->**My H2O: [Demo](https://www.youtube.com/watch?v=_F4tKmcMMEc)** | Idea inspired @ the [Proffer Hackathon](https://proffer.network/hackathon) by [Niraj Swami](https://twitter.com/nswami)
-
-![Habit Economics](https://user-images.githubusercontent.com/567670/33082870-78d20c2a-cea3-11e7-9853-82297ede839d.png)
+>**MyH2OBot: [Demo](https://www.youtube.com/watch?v=_F4tKmcMMEc)** | Idea inspired @ the [Proffer Hackathon](https://proffer.network/hackathon) by [Niraj Swami](https://twitter.com/nswami)
 ----------
 
-### What is My H2O?
-Health Habits and Outcomes (H2O) is an intelligent assistant that helps you be accountable for healthy habits - like drinking more water - in a **fun, motivating & rewarding way**. Let's hack on the idea of a **_'habit economics'_**.
+![Habit Economics](https://user-images.githubusercontent.com/567670/33082870-78d20c2a-cea3-11e7-9853-82297ede839d.png)
+
+### What is MyH2OBot?
+Habits for Healthy Outcomes (H2O) is an intelligent assistant that helps you be accountable for healthy habits - like drinking more water - in a **fun, motivating & rewarding way**. Let's hack on the idea of a **_'habit economics'_**.
 
 #### **Inspiration**
 We all aim to have healthy habits, but somewhere in the daily stress and self 'convincing', we end up not holding ourselves accountable and help ourselves to that extra serving of ice cream or cake. Calorie counting apps don't always work because nobody is there to motivate you!! _But, the case is different when we ask a friend to hold us accountable and motivated!_ <sup>[*](https://www.ncbi.nlm.nih.gov/pubmed/28286739)</sup>
