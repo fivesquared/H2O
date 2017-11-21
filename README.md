@@ -4,8 +4,6 @@
 
 ----------
 
-![Habit Economics](https://user-images.githubusercontent.com/567670/33082870-78d20c2a-cea3-11e7-9853-82297ede839d.png)
-
 ### What is MyH2OBot?
 Habits for Healthy Outcomes (H2O) is an intelligent assistant that helps you be accountable for healthy habits - like drinking more water - in a **fun, motivating & rewarding way**. Let's hack on the idea of a **_'habit economics'_**.
 
@@ -16,7 +14,9 @@ We all aim to have healthy habits, but somewhere in the daily stress and self 'c
 
 Now, this friend is a little sassy. Instead of just giving me a standard amount of money back, they see how often and how good my meals are. So, if I'm very diligent about eating good often and early in my habit, my friend rewards me greater portions - it's like a _**reward for how quickly I'm forming my habit!**_
 
-> Blockchain technologies seem like the perfect fit for this free-form finance use case with a health-focused item!
+> Blockchain technologies seem like the perfect fit for this free-form finance use case with a health-focused drive!
+
+![Habit Economics](https://user-images.githubusercontent.com/567670/33082870-78d20c2a-cea3-11e7-9853-82297ede839d.png)
 
 ### Architecture
 ![Architecture Diagram](https://user-images.githubusercontent.com/567670/32739369-98f8b2ce-c86d-11e7-993d-42b142502507.png)
