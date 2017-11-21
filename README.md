@@ -1,9 +1,11 @@
-![Habit Economics](https://user-images.githubusercontent.com/567670/33082870-78d20c2a-cea3-11e7-9853-82297ede839d.png)
-
 # _Habit Economics_ with @MyH2OBot
 
 > [Winning entry](https://blog.proffer.network/proffer-hackathon-winners-2017-1adb2078a691) @ the [Proffer Hackathon](https://proffer.network/hackathon) by [Niraj Swami](https://twitter.com/nswami)
+
 ----------
+
+![Habit Economics](https://user-images.githubusercontent.com/567670/33082870-78d20c2a-cea3-11e7-9853-82297ede839d.png)
+
 ### What is MyH2OBot?
 Habits for Healthy Outcomes (H2O) is an intelligent assistant that helps you be accountable for healthy habits - like drinking more water - in a **fun, motivating & rewarding way**. Let's hack on the idea of a **_'habit economics'_**.
 
